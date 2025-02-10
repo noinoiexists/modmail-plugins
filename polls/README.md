@@ -13,25 +13,11 @@ A customizable polling system for the Discord [Modmail bot](https://github.com/m
 
 ## Installation
 
-### From GitHub
-
-1. Clone the repository
-Open a shell and type in the following commands:
-```bash
-git clone https://github.com/noinoiexists/modmail-plugins.git
-cp ./modmail-plugins/polls/ /path/to/Modmail/plugins/@local/ -r
+Run the following command on Discord:
 ```
-Here, `/path/to/Modmail/` is path to the root folder of the Modmail bot. 
-
-2. Install the plugin
-Run the following command on Discord, replacing `?` with your prefix:
+?plugins add noinoiexists/modmail-plugins/polls
 ```
-?plugins add @local/polls
-```
-
-### Using the Modmail Bot
-
-Approval pending.
+Replace `?` with your prefix.
 
 ## Usage
 
